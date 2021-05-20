@@ -27,7 +27,7 @@
 ISC
 
 ## Technologies
-Express.js, Mongoose, MongoDB
+Node.js, Express.js, Mongoose, and MongoDB
 
 ## Contributors
 Stefan Podzinski 
@@ -42,4 +42,4 @@ Stefan Podzinski
 ## GitHub
 - stefanpodz303
 - stefanpodz@yahoo.com
-https://stefanpodz303.github.io/Stefan-Podzinski-Portfolio/
+- https://stefanpodz303.github.io/Stefan-Podzinski-Portfolio/
