@@ -41,7 +41,7 @@ N/A
 - https://github.com/stefanpodz303/Mongo-Excercise-Tracker
 
 ## Deployed
-- https://mongodb-exercise-tracker.herokuapp.com/?id=60a9078cc434ea0016fc1546
+- https://mongodb-exercise-tracker.herokuapp.com/
 
 ## GitHub
 - stefanpodz303
