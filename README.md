@@ -2,6 +2,8 @@
 
 ![APM](https://img.shields.io/badge/license-ISC-blue)
 
+![screenshot of webpage](assets/images/fitness-tracker.png)
+
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
@@ -39,7 +41,7 @@ N/A
 - https://github.com/stefanpodz303/Mongo-Excercise-Tracker
 
 ## Deployed
-- https://rocky-hollows-68006.herokuapp.com/?id=60a8fe5f3db6b900154dfac5
+- https://mongodb-exercise-tracker.herokuapp.com/?id=60a9078cc434ea0016fc1546
 
 ## GitHub
 - stefanpodz303
