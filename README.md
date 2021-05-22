@@ -2,7 +2,6 @@
 
 ![APM](https://img.shields.io/badge/license-ISC-blue)
 
-
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
@@ -12,16 +11,17 @@
 - [Contributors](#Contributors)
 - [Tests](#Tests)
 - [Repository Link](#Repository)
+- [Deployed Link](#Deployed)
 - [GitHub Info](#GitHub) 
 
 ## Description 
-
+This MongoDB Exercise Tracker application allows the user create, update, and save their workout data (exercise type, weight, duration, etc.) to track their hardwork and progress. The app also allows the user view and track all of their work from the previous 7 day period.  
 
 ## Installation
-
+Prerequisites to run the app: Node.js, Express.js and MongoDB. Then clone the repository and run 'npm i' and 'npm start' in the command line. You can also prepopulate the database with 'npm run seed'.
 
 ## Usage
-
+Fast and easy app to help a user create, update, and save workout data to stay fit and healthy.  
 
 ## License
 ISC
@@ -32,12 +32,14 @@ Node.js, Express.js, Mongoose, and MongoDB
 ## Contributors
 Stefan Podzinski 
 
-
 ## Tests
-
+N/A
 
 ## Repository
+- https://github.com/stefanpodz303/Mongo-Excercise-Tracker
 
+## Deployed
+- https://rocky-hollows-68006.herokuapp.com/?id=60a8fe5f3db6b900154dfac5
 
 ## GitHub
 - stefanpodz303
